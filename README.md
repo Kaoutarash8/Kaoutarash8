@@ -30,5 +30,5 @@ Building reliable AI applications, developing data engineering pipelines, and im
 ### Contact
 
 - GitHub: [@Kaoutarash8](https://github.com/Kaoutarash8)
-- LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/)
-- Email: Add your professional email address
+- LinkedIn: [kaoutar(https://www.linkedin.com/)
+- Email: kawtarasahaad@gmail.com
