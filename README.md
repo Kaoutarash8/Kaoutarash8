@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Kaoutar Asahaad 👋
 
-<!--
-**Kaoutarash8/Kaoutarash8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineering | Data Science | Data Engineering
 
-Here are some ideas to get you started:
+Engineering student in Digital Transformation & Artificial Intelligence at ENSAH, Morocco. I'm interested in building practical AI systems, scalable data pipelines, and intelligent applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working across the AI and data lifecycle, from data processing and machine learning to backend development and deployment.
+
+### Technical Skills
+
+- **Programming:** Python, Java, JavaScript, SQL, PHP
+- **AI & Machine Learning:** Scikit-learn, PyTorch, TensorFlow, NLP, BERT, RAG, LLM Agents
+- **Big Data & Data Engineering:** Apache Spark, Kafka, Flink, Hadoop, Airflow, Pandas, DuckDB
+- **Databases & Storage:** PostgreSQL, MySQL, Cassandra, MinIO, PostGIS
+- **Backend & APIs:** FastAPI, Spring MVC, Laravel
+- **DevOps & Tools:** Docker, Git, Linux, GitHub Actions, Grafana, Azure
+
+### Featured Projects
+
+- **TaaSim — Urban Mobility Analytics:** Real-time data processing and demand forecasting using Kafka, Flink and Spark.
+- **AI Research Agent:** Agent-based research workflows with source verification.
+- **DocPilot AI:** Document question-answering with OCR and Retrieval-Augmented Generation.
+- **JobIntel:** Data engineering pipeline for aggregating and filtering Data/AI job offers in Morocco.
+- **Darija Sentiment Analysis:** Deep learning and language models for Moroccan Darija sentiment classification.
+
+### Current Focus
+
+Building reliable AI applications, developing data engineering pipelines, and improving model evaluation and deployment practices.
+
+### Contact
+
+- GitHub: [@Kaoutarash8](https://github.com/Kaoutarash8)
+- LinkedIn: [Add your LinkedIn profile](https://www.linkedin.com/)
+- Email: Add your professional email address
